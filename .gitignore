@@ -1,0 +1,51 @@
+# Local dev DB
+data/
+*.db
+*.db-journal
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+tsconfig.tsbuildinfo
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Brainstorm visual companion artifacts
+.superpowers/
+
+# Preview/launch config (local-only)
+.claude/
+.codex/
+.chatgpt/
+.mcp.json
+CLAUDE.md
+CHATGPT.md
+AGENTS.md
+
+# Dev server log
+dev-server.log
+
+# Local research artifacts (not part of the app)
+autopilot_adv.pdf
+autopilot_adv.txt
+
+# Figma reference screenshots (only used locally during design)
+.figma-refs/
+docs/superpowers/

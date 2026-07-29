@@ -1,0 +1,6 @@
+[
+  { "MSFT": 22.4, "AVGO": 20.3, "MU": 14.2, "NOW": 10.7, "VST": 8.9, "GOOGL": 8.0, "NVDA": 7.5, "META": 8.0 },
+  { "MSFT": 18.1, "AVGO": 22.0, "NVDA": 15.5, "MU": 12.0, "VST": 10.0, "NOW": 8.0, "AMZN": 7.4, "GOOGL": 7.0 },
+  { "NVDA": 24.0, "MSFT": 19.0, "AVGO": 17.5, "META": 11.0, "AMZN": 9.0, "GOOGL": 8.5, "TSLA": 6.0, "MU": 5.0 },
+  { "MSFT": 21.0, "GOOGL": 18.0, "AMZN": 14.0, "NVDA": 13.5, "META": 11.0, "AVGO": 10.5, "NOW": 7.0, "ORCL": 5.0 }
+]
